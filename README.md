@@ -5,11 +5,11 @@
 
 
 ## About
-An example of an online store on Django with a payment system, authentication, shopping cart, etc.
+An example of an online store on Django with a payment system, authentication, shopping cart, REST API, etc,.
 
 Located on the server at: http://84.38.180.112/
 
-The following technologies were used during creation: django rest framework, redis, celery, OAuth, PostgreSQL, stripe, smtp.yandex, nginx, gunicorn .
+The following technologies were used during creation: django, django rest framework, redis, celery, OAuth, PostgreSQL, stripe, smtp.yandex, nginx, gunicorn .
 
 
 
