@@ -5,7 +5,7 @@
 
 
 ## About
-An example of an online store on Django with a payment system, authentication, shopping cart, REST API, etc,.
+An example of an online store on Django with a payment system, REST API, authentication, shopping cart, etc,.
 
 Located on the server at: http://84.38.180.112/
 
